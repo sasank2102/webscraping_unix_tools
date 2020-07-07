@@ -1,0 +1,6 @@
+ ######################### README ####################################
+ 
+ Run scrape_pro.sh with 'bash' command to launch main script . (scrape_pro.sh does not run when 'sh' command is used !)
+ 
+ gnuplot tool must be installed to plot graph (When using 'plot' option in main script)
+ 
